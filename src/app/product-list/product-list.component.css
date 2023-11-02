@@ -1,0 +1,35 @@
+.everything {
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #D4B483;
+    border-width: 1px;
+    margin: 20%;
+    
+}
+
+.title {
+    background-color: #4357AD;
+    margin: 10% 25% 10% 25%;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#DCE1DE;
+}
+
+.footer {
+    background-color: #E4DFDA;
+    margin: 5% 100px 0% 100px;
+    border-radius: 10px;
+    color:#1F2421;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.products {
+    background-color: #C1666B;
+    margin: 20px 200px 0px 200px;
+    border-radius: 20px;
+    color:#DCE1DE;
+}

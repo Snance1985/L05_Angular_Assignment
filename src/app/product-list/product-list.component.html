@@ -1,0 +1,15 @@
+<div class="everything">
+  <h1 class="title">Burger Shop</h1>
+  <div class="products">
+    <div *ngFor="let product of products">
+      <h3>{{ product.productName }}</h3>
+      <p>{{ product.description }}</p>
+      <p>Price: ${{ product.price }}</p>
+    </div>
+  </div>
+
+  <br>
+  <footer class="footer">
+    <p>{{ catFact }}</p>
+  </footer>
+</div>
